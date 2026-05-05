@@ -151,6 +151,8 @@ This is the part that makes this project different from a basic store.
 3. Admin opens the message and types a reply
 4. The reply gets saved to the database with a timestamp
 5. The user can visit "My Messages" and see the full thread — their message and the admin's response
+   <img width="1920" height="903" alt="image" src="https://github.com/user-attachments/assets/db04dd9a-031c-428f-bad1-3121527d0b28" />
+
 
 It's simple but it works like a real support ticket flow.
 
