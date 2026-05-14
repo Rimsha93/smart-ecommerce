@@ -1,6 +1,8 @@
 # 🛒 Smart E-Commerce Management System
 
 A full-stack Laravel e-commerce platform with a clean user storefront and a powerful admin dashboard — built from scratch, no starter kits.
+Github Repo 🔗: https://github.com/Rimsha93/smart-ecommerce
+Demo video 🔗: https://drive.google.com/file/d/17Uet6YW5P_Nkx-1Rt5VFPru3hAoJV4nj/view?usp=sharing 
 
 ---
 
